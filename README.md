@@ -1,3 +1,5 @@
+The objective of this project is to analyze job posting data to identify key indicators of fraud, helping job seekers and platforms stay safe from recruitment scams
+
 Key Insights:
 The Logo Red Flag: ~75% of fraudulent postings (2,262 jobs) lack a company logo, making "Profile Incompleteness" the #1 risk indicator.
 
