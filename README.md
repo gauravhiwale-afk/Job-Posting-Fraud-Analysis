@@ -1,4 +1,5 @@
 Job Posting Fraud Analysis
+
 Analyzing 3,000+ records to identify risk patterns and fraud indicators using Excel & Power BI.
 The objective of this project is to analyze job posting data to identify key indicators of fraud, helping job seekers and platforms stay safe from recruitment scams.
 
