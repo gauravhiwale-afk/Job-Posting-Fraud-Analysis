@@ -1,5 +1,17 @@
-Dataset Size: Analyzed 3,000 job postings with 25 different attributes.
+Key Insights:
+The Logo Red Flag: ~75% of fraudulent postings (2,262 jobs) lack a company logo, making "Profile Incompleteness" the #1 risk indicator.
 
-Key Logic: Identifies fraudulent patterns based on missing logos, company profiles, and specific job requirements.
+High-Risk Roles: Product Manager and Graphic Designer roles show the highest fraud density, both exceeding 52-54%.
 
-Outcome: A structured report and dashboard that helps in identifying fake recruitment drives.
+Sector Vulnerability: Education and Healthcare are the most targeted sectors due to high applicant volume.
+
+Technical Triggers: 460+ postings were flagged due to suspicious email domains and hidden salary details.
+
+Tech Stack & Methodology
+Excel: Performed data cleaning and built Potential Risk logic using nested IF and AND functions.
+
+Power BI: Developed a 2-page interactive dashboard with KPI cards and a dedicated Executive Insights page.
+
+DAX: Created custom measures for Fake Postings, Total Records, and Fraud Rate %.
+
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/f7ef110f-e6b3-4792-8b16-d2971efa028b" />
