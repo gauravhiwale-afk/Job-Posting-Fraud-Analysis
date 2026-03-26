@@ -13,7 +13,7 @@ Sector Vulnerability: Education and Healthcare are the most targeted sectors due
 Technical Triggers: 460+ postings were flagged due to suspicious email domains and hidden salary details.
 
 Tech Stack & Methodology
-Excel: Performed data cleaning and built Potential Risk logic using nested IF and AND functions.
+Excel: Performed data cleaning and built Potential Risk logic using nested IF and AND functions
 
 Power BI: Developed a 2-page interactive dashboard with KPI cards and a dedicated Executive Insights page.
 
